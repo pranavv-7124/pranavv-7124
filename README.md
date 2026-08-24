@@ -49,17 +49,6 @@
 
 <br/>
 
-## 🧊 3D Contribution Grid
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pranavv-7124/pranavv-7124/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
-
-</div>
-
-> This isometric 3D grid is the real showstopper — it turns your commit history into a rotating-looking neon skyline instead of flat squares. It needs a one-time GitHub Action setup ([yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)) on your `pranavv-7124/pranavv-7124` repo to generate — say the word and I'll give you the exact workflow file to drop in.
-
-<br/>
 
 ## ⚡ Currently
 

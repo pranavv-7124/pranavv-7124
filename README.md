@@ -1,212 +1,72 @@
 <div align="center">
 
-<img src="./assets/pranav-os-hero.png" width="100%" alt="Pranav OS Futuristic AI Dashboard"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:150050,50:3f0071,75:610094,100:ff2e63&height=230&section=header&text=Hi%20There%2C%20I'm%20Pranav%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+ONLINE+%5D;%3E+INITIALIZING+PRANAV_OS...;%3E+AI+CORE+CONNECTED;%3E+DATA+%E2%86%92+INTELLIGENCE+%E2%86%92+IMPACT;%3E+CODE.+LEARN.+BUILD." />
-
-<br><br>
-
-<a href="https://github.com/pranavv-7124">
-<img src="https://img.shields.io/badge/GITHUB-PRANAVV--7124-050014?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pranavkalbhor-7124-">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-050014?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
-</a>
-
-<a href="mailto:pranavkalbhor07@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-050014?style=for-the-badge&logo=gmail&logoColor=FF2E63"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer;AI+%26+Analytics+Enthusiast;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
-# `01 // ABOUT THE OPERATOR`
+## 🧠 About Me
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    PRANAV_OS // PROFILE                     │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│   NAME          → PRANAV KALBHOR                            │
-│   ROLE          → COMPUTER SCIENCE ENGINEER                 │
-│   SPECIALITY    → AI & ANALYTICS                            │
-│   STATUS        → ● ALWAYS BUILDING                         │
-│   PRIMARY CORE  → PYTHON                                    │
-│   MINDSET       → BUILD → BREAK → LEARN → REPEAT            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+- 🎓 Computer Science Engineer specializing in **AI and Analytics**
+- 🔭 Currently exploring machine learning models and data-driven applications
+- 🌱 Always leveling up in Python, AI/ML, and data analytics
+- 💬 Ask me about Python, Java, JavaScript, ML, or SQL
+- 📫 Reach me at **pranavkalbhor07@gmail.com**
 
-I build at the intersection of Artificial Intelligence, Data and Software.
+<br/>
 
-From exploring machine learning models to developing full-stack applications, I enjoy turning ideas into systems that can solve real-world problems.
+## 🛠️ Tech Stack
 
 <div align="center">
 
-AI ◈ DATA ◈ CODE ◈ BUILD
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,mysql&theme=dark&perline=4)](https://skillicons.dev)
+
+<br/>
+
+![AI/ML](https://img.shields.io/badge/AI%2FML-610094?style=for-the-badge&logo=tensorflow&logoColor=00F5FF)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-3F0071?style=for-the-badge&logo=googleanalytics&logoColor=00F5FF)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF2E63?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </div>
 
-02 // TECH ORBIT
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,mysql,react,flask,firebase,git,github,vscode&theme=dark&perline=10"/>
+<br/>
 
-<br><br>
+## 📊 GitHub Stats
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-EXPLORING-050014?style=for-the-badge&labelColor=00F5FF"/> <img src="https://img.shields.io/badge/DATA-ANALYTICS-050014?style=for-the-badge&labelColor=7C3AED"/> <img src="https://img.shields.io/badge/FULL%20STACK-BUILDING-050014?style=for-the-badge&labelColor=FF2E63"/> </div>
-
-                         PYTHON
-                           ◉
-                    ╱              ╲
-                 JAVA                JS
-                   ◉                 ◉
-                     ╲             ╱
-                      ╲           ╱
-                    ┌───────────────┐
-                    │    AI CORE    │
-                    └───────────────┘
-                      ╱           ╲
-                     ╱             ╲
-                DATABASE          WEB
-                   ◉               ◉
-                      ╲           ╱
-                       DATA + CODE
-
-03 // PROJECT MATRIX
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+SCANNING+PROJECT+MODULES...;%3E+KRISHIVAANI+ACTIVE;%3E+CLARITYCARE+ACTIVE;%3E+AI+SYSTEMS+ONLINE." /> </div> <br> <table> <tr> <td width="50%" align="center"> <h3>🌾 MODULE_01</h3> <h2>KRISHIVAANI</h2>
-
-<b>AI-Based Farmer Query Support & Advisory System</b>
-
-<br><br>
-
-<code>NLP</code> <code>VOICE AI</code> <code>VISION AI</code>
-
-<br><br>
-
-<code>React</code> <code>Flask</code> <code>Firebase</code>
-
-<br><br>
-
-🟢 <b>STATUS: ACTIVE</b>
-
-</td> <td width="50%" align="center"> <h3>🏥 MODULE_02</h3> <h2>CLARITYCARE</h2>
-
-<b>Healthcare Transparency & Cost Intelligence Platform</b>
-
-<br><br>
-
-<code>AI ANALYSIS</code> <code>DATA</code> <code>VISUALIZATION</code>
-
-<br><br>
-
-<code>Firebase</code> <code>Gemini API</code> <code>Chart.js</code>
-
-<br><br>
-
-🟣 <b>STATUS: ACTIVE</b>
-
-</td> </tr> <tr> <td width="50%" align="center"> <h3>🧠 MODULE_03</h3> <h2>A.U.R.A.</h2>
-
-<b>AI Conversational Wellness Assistant</b>
-
-<br><br>
-
-<code>AI</code> <code>NLP</code> <code>CONVERSATIONAL SYSTEMS</code>
-
-<br><br>
-
-<code>Python</code> <code>Flask</code> <code>JavaScript</code>
-
-<br><br>
-
-🔵 <b>STATUS: ONLINE</b>
-
-</td> <td width="50%" align="center"> <h3>🎮 MODULE_04</h3> <h2>SKILLQUEST</h2>
-
-<b>Gamified Learning Platform</b>
-
-<br><br>
-
-<code>GAMIFICATION</code> <code>LEARNING</code> <code>DATABASE</code>
-
-<br><br>
-
-<code>JavaScript</code> <code>MySQL</code>
-
-<br><br>
-
-🟢 <b>STATUS: COMPLETE</b>
-
-</td> </tr> </table>
-
-04 // SYSTEM TERMINAL
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=1800&pause=500&color=00F5FF&center=true&vCenter=true&width=850&lines=%24+sudo+boot+pranav_os;%3E+Loading+AI+core...+CONNECTED;%3E+Loading+data+modules...+DONE;%3E+Loading+machine+learning...+DONE;%3E+SYSTEM+READY+%E2%9C%93" /> </div>
-
-                         ┌──────────────┐
-                         │ SYSTEM READY │
-                         └──────┬───────┘
-                                │
-                ┌───────────────┼───────────────┐
-                ▼               ▼               ▼
-             LEARN            BUILD          DEPLOY
-                │               │               │
-                └───────────────┼───────────────┘
-                                ▼
-                             ITERATE
-                                │
-                                ∞
-
-05 // CURRENT MISSION
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=17&duration=2600&pause=1000&color=FF2E63&center=true&vCenter=true&width=800&lines=EXPLORING+ARTIFICIAL+INTELLIGENCE;BUILDING+DATA-DRIVEN+SYSTEMS;IMPROVING+PROBLEM+SOLVING;TURNING+IDEAS+INTO+REALITY." /> </div>
-
-╔══════════════════════════════════════════════════════════╗
-║                    MISSION CONTROL                       ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║   ◉ BUILD MORE                                           ║
-║   ◉ LEARN DEEPER                                         ║
-║   ◉ SOLVE HARDER PROBLEMS                                ║
-║   ◉ CREATE REAL-WORLD IMPACT                             ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-
-06 // SYSTEM PHILOSOPHY
 <div align="center">
 
-                         ◉ IDEA
-                            │
-                            ▼
-                      ◉ EXPERIMENT
-                            │
-                            ▼
-                        ◉ BUILD
-                            │
-                            ▼
-                       ◉ IMPROVE
-                            │
-                            ▼
-                            ∞
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=pranavv-7124&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0221&title_color=00F5FF&icon_color=FF2E63&text_color=e6e6ff" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pranavv-7124&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0221&title_color=00F5FF&text_color=e6e6ff" />
 
-<br> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=850&lines=Don't+just+learn+technology.;Build+with+it.;Don't+just+write+code.;Create+something+that+matters." /> </div>
+<br/><br/>
 
-07 // CONNECT
-<div align="center"> <a href="https://github.com/pranavv-7124"> <img src="https://img.shields.io/badge/GITHUB-ENTER%20PROFILE-050014?style=for-the-badge&logo=github&logoColor=00F5FF"/> </a> <a href="https://www.linkedin.com/in/pranavkalbhor-7124-"> <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-050014?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/> </a> <a href="mailto:pranavkalbhor07@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-CONTACT-050014?style=for-the-badge&logo=gmail&logoColor=FF2E63"/> </a>
+<img src="https://streak-stats.demolab.com/?user=pranavv-7124&hide_border=true&background=0d0221&ring=FF2E63&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=e6e6ff&dates=e6e6ff&stroke=610094" />
 
-<br><br>
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=FF2E63&center=true&vCenter=true&width=750&lines=%3E+SESSION+ACTIVE.;%3E+MORE+IDEAS+COMING+SOON...;%3E+SEE+YOU+IN+THE+NEXT+COMMIT+%F0%9F%9A%80" />
+<br/>
 
-<br><br>
 
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║              PRANAV_OS // SYSTEM ONLINE              ║
-║                                                      ║
-║              STATUS : ALWAYS BUILDING                ║
-║              MODE   : NEVER STOP LEARNING            ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+## ⚡ Currently
 
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050014,25:00F5FF,55:7C3AED,80:FF2E63,100:050014" width="100%"/> ```
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1200&color=FF2E63&center=true&vCenter=true&width=550&lines=Building+with+data%2C+one+model+at+a+time...;Debugging+by+day%2C+dreaming+in+Python+by+night;Status%3A+Compiling+ideas+into+code" alt="status" />
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranavkalbhor-7124-)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pranavkalbhor07@gmail.com)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e63,25:610094,50:3f0071,75:150050,100:0d0221&height=140&section=footer" width="100%"/>

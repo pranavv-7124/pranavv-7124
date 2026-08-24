@@ -1,83 +1,267 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:150050,50:3f0071,75:610094,100:ff2e63&height=230&section=header&text=Hi%20There%2C%20I'm%20Pranav%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=PRANAV%20KALBHOR&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%20%26%20Analytics&descAlignY=58&fontColor=ffffff&color=0:090014,50:3b0764,100:7c3aed&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer;AI+%26+Analytics+Enthusiast;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions+%F0%9F%A4%96;Turning+data+into+decisions+%F0%9F%93%8A;Breaking+things.+Fixing+things.+Learning.;Code+%E2%86%92+Ideas+%E2%86%92+Impact+%E2%9A%A1" />
+
+<br>
+
+<a href="https://github.com/Pranav-7124">
+<img src="https://img.shields.io/badge/GitHub-090014?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/pranavkalbhor-7124-">
+<img src="https://img.shields.io/badge/LinkedIn-090014?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:pranavkalbhor07@gmail.com">
+<img src="https://img.shields.io/badge/Email-090014?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-## 🧠 About Me
+## `whoami`
 
-- 🎓 Computer Science Engineer specializing in **AI and Analytics**
-- 🔭 Currently exploring machine learning models and data-driven applications
-- 🌱 Always leveling up in Python, AI/ML, and data analytics
-- 💬 Ask me about Python, Java, JavaScript, ML, or SQL
-- 📫 Reach me at **pranavkalbhor07@gmail.com**
+```python
+class Pranav:
 
-<br/>
+    role = "Computer Science Engineer"
+    specialization = "AI & Analytics"
 
-## 🛠️ Tech Stack
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Analytics",
+        "Full-Stack Development",
+        "Problem Solving"
+    ]
+
+    mindset = "Build → Break → Learn → Improve"
+
+    currently = "Turning ideas into working software 🚀"
+```
+
+---
+
+## ⚡ What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Machine Learning
+
+Building intelligent systems that can understand data, discover patterns and assist with real-world decisions.
+
+</td>
+
+<td width="50%">
+
+### 📊 Data & Analytics
+
+Turning raw data into meaningful insights, visualizations and decisions.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Full-Stack Applications
+
+Creating practical applications with modern frontend, backend and database technologies.
+
+</td>
+
+<td width="50%">
+
+### 🧠 Problem Solving
+
+DSA, debugging, experimentation and learning by building.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,mysql&theme=dark&perline=4)](https://skillicons.dev)
+### Languages
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
 
-![AI/ML](https://img.shields.io/badge/AI%2FML-610094?style=for-the-badge&logo=tensorflow&logoColor=00F5FF)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-3F0071?style=for-the-badge&logo=googleanalytics&logoColor=00F5FF)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF2E63?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### Data & AI
+
+<img src="https://skillicons.dev/icons?i=mysql,tensorflow,sklearn&theme=dark" />
+
+### Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=react,flask,firebase,git,github,vscode&theme=dark" />
 
 </div>
 
-<br/>
+---
 
-## 📊 GitHub Stats
+## 🚀 Featured Builds
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=pranavv-7124&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0221&title_color=00F5FF&icon_color=FF2E63&text_color=e6e6ff" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pranavv-7124&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0221&title_color=00F5FF&text_color=e6e6ff" />
+<table>
+<tr>
 
-<br/><br/>
+<td width="50%">
 
-<img src="https://streak-stats.demolab.com/?user=pranavv-7124&hide_border=true&background=0d0221&ring=FF2E63&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=e6e6ff&dates=e6e6ff&stroke=610094" />
+### 🌾 KrishiVaani
+
+AI-powered farmer query support and advisory platform.
+
+**Stack**
+
+`React` `Tailwind` `Flask` `Firebase`
+`NLP` `Whisper` `Vision AI`
+
+</td>
+
+<td width="50%">
+
+### 🏥 ClarityCare
+
+Healthcare transparency platform designed to help users understand medical costs, diagnoses and insurance policies.
+
+**Stack**
+
+`HTML` `Tailwind` `JavaScript`
+`Firebase` `Gemini API` `Chart.js`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏥 Cure Connect
+
+Hospital management system designed to simplify healthcare administration and patient management.
+
+**Stack**
+
+`Python` `SQL` `Database`
+
+</td>
+
+<td width="50%">
+
+### 🎯 SkillQuest
+
+Gamified learning platform designed to make skill development more engaging.
+
+**Stack**
+
+`Web` `MySQL` `JavaScript`
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
-<br/>
+---
 
-## 🧊 3D Contribution Grid
+## 🧪 Currently Experimenting With
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🤖  Machine Learning       ███████████████░░░  85%        │
+│   📊  Data Analytics         ████████████████░░  90%        │
+│   🌐  Full-Stack Development █████████████░░░░░  75%        │
+│   🧠  DSA & Problem Solving  ████████████░░░░░░  70%        │
+│   ☕  Java                    ███████████░░░░░░░  65%        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎮 Developer Mode
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pranavv-7124/pranavv-7124/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
+```text
+╔══════════════════════════════════════════════╗
+║                 SYSTEM STATUS               ║
+╠══════════════════════════════════════════════╣
+║  STATUS       : ONLINE                       ║
+║  MODE         : BUILDING                     ║
+║  BRAIN        : 100% CURIOUS                 ║
+║  COFFEE       : REQUIRED                     ║
+║  BUGS         : TOO MANY                     ║
+║  NEXT GOAL    : BUILD SOMETHING AWESOME     ║
+╚══════════════════════════════════════════════╝
+```
 
 </div>
 
-> This isometric 3D grid is the real showstopper — it turns your commit history into a rotating-looking neon skyline instead of flat squares. It needs a one-time GitHub Action setup ([yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)) on your `pranavv-7124/pranavv-7124` repo to generate — say the word and I'll give you the exact workflow file to drop in.
+---
 
-<br/>
-
-## ⚡ Currently
+## 🧊 3D Contribution Universe
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1200&color=FF2E63&center=true&vCenter=true&width=550&lines=Building+with+data%2C+one+model+at+a+time...;Debugging+by+day%2C+dreaming+in+Python+by+night;Status%3A+Compiling+ideas+into+code" alt="status" />
+
+<img src="https://raw.githubusercontent.com/Pranav-7124/Pranav-7124/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
+
 </div>
 
-<br/>
+---
 
-## 🌐 Connect With Me
+## 🌌 Current Mission
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranavkalbhor-7124-)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pranavkalbhor07@gmail.com)
+> **Learning AI. Building products. Solving problems.**
+>
+> *One commit at a time.*
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+something+better...;Turning+ideas+into+code...;Always+learning.+Always+building.;See+you+in+the+next+commit+%F0%9F%9A%80" />
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e63,25:610094,50:3f0071,75:150050,100:0d0221&height=140&section=footer" width="100%"/>
+## 🌐 Find Me
+
+<div align="center">
+
+<a href="https://github.com/Pranav-7124">
+<img src="https://img.shields.io/badge/GitHub-100?style=for-the-badge&logo=github&logoColor=white&labelColor=090014&color=7c3aed"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pranavkalbhor-7124-">
+<img src="https://img.shields.io/badge/LinkedIn-100?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090014&color=2563eb"/>
+</a>
+
+<a href="mailto:pranavkalbhor07@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090014&color=ec4899"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `console.log("Keep building. 🚀");`
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,50:3b0764,100:090014" width="100%"/>

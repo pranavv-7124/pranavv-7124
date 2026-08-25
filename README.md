@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pranavv-7124/pranavv-7124/main/assets/pranav-os-hero.png" width="100%" alt="Pranav OS Futuristic AI Dashboard"/>
+<img src="./assets/pranav-os-hero.png" width="100%" alt="PRANAV OS Futuristic AI Dashboard"/>
 
 <br><br>
 
